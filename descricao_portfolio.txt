@@ -1,0 +1,100 @@
+# Boas Vindas
+
+Olá e seja muito bem-vindo(a) ao meu portfólio de projetos em Ciência de Dados!
+
+Aqui, compartilho demonstrações das minhas habilidades em solucionar desafios de negócios usando conceitos e ferramentas avançadas de Data Science, tudo através de projetos envolvendo dados públicos.
+
+Explore um pouco mais e você encontrará informações sobre minha jornada profissional, detalhes sobre as habilidades que desenvolvi ao longo da carreira, bem como as ferramentas que já utilizei.
+
+Sinta-se à vontade para me contatar através dos links no final da página. Estou ansioso(a) para trocar ideias e discutir possíveis colaborações.
+
+Agradeço pela visita e espero que aproveite a navegação pelo meu portfólio! :)
+
+# Sobre Mim
+
+Meu nome é Emerson Hideki Miady
+
+Formado em Estatística e Ciencia de Dados na USP, atuo como Analista Pleno na área de Automatização e Performance na Cielo.
+
+Dentro do meu trabalho, realizo diversas análises para a área de finanças, buscando aprimorar a tomada de decisão e impulsionar o aumento da receita da empresa.
+
+Em busca de aprimoramento constante, desenvolvo projetos pessoais em Ciência de Dados para me desafiar e ganhar mais experiência na resolução de problemas de Negócio.
+
+Caso seja de seu interesse, podemos conversar sobre possíveis propostas e processos seletivos! Só me chamar! ;)
+
+# Habilidades
+
+## Linguagens de programação
+
+- Python com foco em análise de dados e modelagem
+- SQL para extração dos dados
+
+## Estatística e Machine Learning
+
+- Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade...)
+- Algoritmos de regressão, classificação e clusterização
+- Técnicas de balanceamento dos dados, seleção de atributos e redução de dimensionalidade
+- Métricas de performance dos algoritmos ( RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall, Curva ROC, AUC, Silhouette Score...)
+- Pacotes de Machine Learning: Sklearn e Scipy
+
+## Visualização de Dados
+
+- Pacotes: Matplotlib, Seaborn e Plotly
+- Power BI
+
+## Engenharia de Software
+- Git e Github
+- AWS Amazon
+
+# Experiências
+
+## 4+ meses como Analista II em Automatização e Performance na Cielo:
+
+Algumas das minhas experiências como analista foram:
+
+- Modelagem de propensão a alguns produtos de prazo, como por exemplo o ARV, para um determinado público
+- Acompanhamentos financeiros de diversas iniciativas de preço utilizando dashboards
+- Análises de elasticidade dos clientes
+
+## 2 anos como Estagiário em Automatização e Performance na Cielo:
+
+Algumas das minhas atividades como estagiário foram:
+
+- Automatização da retirada de grupo de controle na AWS para o baseline de certas iniciativas da empresa
+- Montagem de acompanhamentos financeiros no Excel
+- Elaboração de modelagens para a área, apresentando novas ideias e desenvolvendo modelos potenciais para projetos, como no caso da análise de elasticidade de preços
+
+## 5+ meses no Bootcamp de Data Science Aplicada da Alura:
+
+É um treinamento de Data Science focado em projetos práticos, em particular, para a área da saúde, como por exemplo:
+
+- Análises dos casos de COVID-19
+- Cobertura vacinal de Sarampo no Brasil
+- Análise estatística da PeNSE 2015
+- Previsão dos pacientes com COVID-19 utilizarem  leitos de UTI ou não,  no Hospital Sírio-Libanês
+
+## COVID-19: evitando um possível colapso nos sistemas de saúde
+
+Este projeto foi desenvolvido durante o Bootcamp de Data Science Aplicada (Alura), no último módulo. Neste, vimos alguns tópicos como modelos de Machine Learning, Cross-Validation, Efeitos da Aleatoriedade ao dividir o DataFrame em treino e teste, Tuning de Hiperparâmetros etc. 
+
+As aulas foram feitas em cima de um Dataset do Kaggle, disponibilizado pelo Hospital Sírio-Libanês.
+
+Como desafio, foi requisitado um modelo que prevê a admissão de pacientes com COVID-19 para leitos de UTI, ou seja, se a pessoa está em um risco maior por conta do novo coronavírus, além de realizar uma EDA dos dados.
+
+### Ferramentas utilizadas:
+
+- Linguagem de programação Python
+- Pacotes: pandas, numpy, matplotlib, seaborn, plotly, boruta, sklearn e statsmodels
+- Notebook: Jupyter Notebook
+- Modelos testados: Naive-Bayes, Regressão Logística, Árvore de Decisão e Random Forest
+
+Obs.: Este projeto tem um teor explicativo, como por exemplo, explicação do funcionamento dos modelos testados.
+
+# Contato
+
+Sinta-se à vontade para entrar em contato:
+
+- LinkedIn: https://www.linkedin.com/in/emerson-miady/
+- E-mail: emersonmiady@gmail.com
+
+Qualquer sugestão ou dúvida, por favor, entre em contato. :)
